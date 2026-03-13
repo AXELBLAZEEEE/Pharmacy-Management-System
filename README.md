@@ -1,4 +1,4 @@
-# Pharmacy-Management-System
+# Pharmacy-Management-System <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" width="100" alt="Flutter Logo" />
 🏥 A Pharmacy Management System built with Flutter and Firebase. Features real-time inventory tracking, proactive expiry alerts, and automated POS billing.Topics: flutter, firebase, android-development, pharmacy-management, dart, firestore, real-time-database  
 
 ✨**Key Features**   
@@ -17,9 +17,9 @@ Role-Based Access: Categorized access for Admin (Full control) and Staff (Sales 
 
 🛠️ **Tech Stack**  
 
-**Frontend:** Flutter (Dart)  
+**Frontend:** Flutter (Dart)  <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" width="100" alt="Flutter Logo" />
 
-**Backend/Database:** Firebase Cloud Firestore  
+**Backend/Database:** Firebase Cloud Firestore  <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="25" alt="Firebase Logo" />
 
 **Authentication:** Firebase Auth  
 
