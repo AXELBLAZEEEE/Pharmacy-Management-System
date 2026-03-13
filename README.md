@@ -17,13 +17,13 @@ Role-Based Access: Categorized access for Admin (Full control) and Staff (Sales 
 
 🛠️ **Tech Stack**  
 
-Frontend: Flutter (Dart)  
+**Frontend:** Flutter (Dart)  
 
-Backend/Database: Firebase Cloud Firestore  
+**Backend/Database:** Firebase Cloud Firestore  
 
-Authentication: Firebase Auth  
+**Authentication:** Firebase Auth  
 
-Storage: Firebase Storage
+**Storage:** Firebase Storage
 
 1️⃣ **Quick Test** (APK Installation)  
 
