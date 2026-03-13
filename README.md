@@ -32,4 +32,4 @@ git clone https://github.com/AXELBLAZEEEE/Pharmacy-Management-System.git
 cd Pharmacy-Management-System
 
 #SCREENSHOTS
-![image alt]()
+![image alt](https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/register.png?raw=true)
