@@ -32,4 +32,24 @@ git clone https://github.com/AXELBLAZEEEE/Pharmacy-Management-System.git
 cd Pharmacy-Management-System
 
 #SCREENSHOTS
+REGISTER
 ![image alt](https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/register.png?raw=true)
+LOGIN
+![image alt](https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/login.png?raw=true)
+DASHBOARD
+![image alt]( https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/dashboard.png?raw=true)
+STOCK
+![image alt]( https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/stocks.png?raw=true)
+SALES
+![image alt]( https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/sales.png?raw=true)
+PRODUCT REFUND
+![image alt](https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/product%20refund.png?raw=true)
+Analysis
+![image alt](https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/Analysis.png?raw=true)
+NETSALES 
+![image alt]( https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/Net%20sales.png?raw=true)
+SALE DETAILS 
+![image alt]( https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/Sale%20details.png?raw=true)
+Billing 
+![image alt]( https://github.com/AXELBLAZEEEE/Pharmacy-Management-System/blob/main/billing.png?raw=true)
+
