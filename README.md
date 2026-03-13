@@ -31,4 +31,3 @@ If you want to run or modify the project, follow the steps below.
 git clone https://github.com/AXELBLAZEEEE/Pharmacy-Management-System.git
 cd Pharmacy-Management-System
 
-Screenshots
